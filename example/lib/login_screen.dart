@@ -290,10 +290,10 @@ class IntroWidget extends StatelessWidget {
           TextSpan(
             children: [
               TextSpan(
-                text: "You are trying to login/sign up on server hosted on ",
+                text: "U : test@gmail.com P : 1234 ",
               ),
               TextSpan(
-                text: "example.com",
+                text: "",
                 style: TextStyle(fontWeight: FontWeight.bold),
               ),
             ],
@@ -305,7 +305,7 @@ class IntroWidget extends StatelessWidget {
             Expanded(child: Divider()),
             Padding(
               padding: EdgeInsets.all(8.0),
-              child: Text("Authenticate"),
+              child: Text("กรุณากรอกอีเมลและรหัสผ่าน"),
             ),
             Expanded(child: Divider()),
           ],
