@@ -570,3 +570,4 @@ class LoginScreen extends StatelessWidget {
 * MIT License
 
 [example project]: example/
+# WuthichaiLogin
